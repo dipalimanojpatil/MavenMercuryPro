@@ -16,6 +16,8 @@ public class MercuryTest {
 	@BeforeSuite
 	public void openbrowser() {
 
+		System.out.println("Hellow we are test gitHub");
+
 		System.setProperty("webdriver.chrome.driver", "D://Advance Selenium Softwares1 (2)//chromedriver.exe");
 		driver = new ChromeDriver();
 

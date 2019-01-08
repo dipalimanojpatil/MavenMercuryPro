@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63082" started-at="2019-01-03T10:30:33Z" finished-at="2019-01-03T10:31:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63082" started-at="2019-01-03T10:30:33Z" finished-at="2019-01-03T10:31:36Z">
+      <class name="MavenPackage.MavenProject.MercuryTest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:MavenPackage.MavenProject.MercuryTest@4c203ea1]" name="openbrowser" is-config="true" duration-ms="23354" started-at="2019-01-03T10:30:10Z" finished-at="2019-01-03T10:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="OpenUrl()[pri:0, instance:MavenPackage.MavenProject.MercuryTest@4c203ea1]" name="OpenUrl" is-config="true" duration-ms="5665" started-at="2019-01-03T10:30:33Z" finished-at="2019-01-03T10:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method status="PASS" signature="validLogin()[pri:1, instance:MavenPackage.MavenProject.MercuryTest@4c203ea1]" name="validLogin" duration-ms="57245" started-at="2019-01-03T10:30:39Z" finished-at="2019-01-03T10:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="ClosweBrowser()[pri:0, instance:MavenPackage.MavenProject.MercuryTest@4c203ea1]" name="ClosweBrowser" is-config="true" duration-ms="225" started-at="2019-01-03T10:31:36Z" finished-at="2019-01-03T10:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosweBrowser -->
+      </class> <!-- MavenPackage.MavenProject.MercuryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
